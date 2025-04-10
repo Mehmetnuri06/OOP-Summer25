@@ -1,1 +1,12 @@
-
+#Python Conditions and If statements
+#equals : a==b
+#not equals: a != b
+#less than: a<b
+#less than or equal to: a <=b
+#greater than: a>b
+#greater than or equal to:a >=b
+#example 
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")
